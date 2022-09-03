@@ -1,0 +1,26 @@
+
+.root{
+	-fx-background-color: #2E8B57;  
+    -fx-border-color: #006400;
+}
+.button{ 
+	-fx-text-fill: #006400;
+	-fx-background-radius: 8.0;
+}
+
+.label{
+	-fx-text-fill: #000000;
+    -fx-font-style: italic;
+    -fx-font-size: 14px;
+}
+TextField{
+	-fx-background-radius: 6.0;
+}
+PasswordField{
+	-fx-background-radius: 6.0;
+}
+
+
+	/*-fx-font-size: 13px;/* 
+    /*-fx-font-size: 13px;*/
+
